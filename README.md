@@ -36,11 +36,3 @@
 <img src="https://raw.githubusercontent.com/SyedZainAnwer/SyedZainAnwer/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/cX92mi1p-NYAAAAC/coding-anime.gif"  />
-</div>
-
-###
